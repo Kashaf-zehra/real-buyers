@@ -1,0 +1,127 @@
+{
+  "pages": {
+    "/global-error": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/global-error.js"
+    ],
+    "/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/page.css",
+      "static/chunks/app/page.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/error": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/error.js"
+    ],
+    "/not-found": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/not-found.js"
+    ],
+    "/agent/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/agent/layout.js"
+    ],
+    "/agent/live-bidding/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/agent/live-bidding/page.js"
+    ],
+    "/agent/live-bidding/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/agent/live-bidding/[id]/page.js"
+    ],
+    "/agent/property-management/post-listing/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/agent/property-management/post-listing/page.css",
+      "static/chunks/app/agent/property-management/post-listing/page.js"
+    ],
+    "/agent/property-management/my-properties/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/agent/property-management/my-properties/page.css",
+      "static/chunks/app/agent/property-management/my-properties/page.js"
+    ],
+    "/agent/my-proposals/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/agent/my-proposals/page.css",
+      "static/chunks/app/agent/my-proposals/page.js"
+    ],
+    "/agent/inbox/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/agent/inbox/page.js"
+    ],
+    "/agent/agent-settings/agent-profile/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/agent/agent-settings/agent-profile/page.css",
+      "static/chunks/app/agent/agent-settings/agent-profile/page.js"
+    ],
+    "/agent/agent-settings/preferences/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/agent/agent-settings/preferences/page.js"
+    ],
+    "/agent/prop-shop/buy-product/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/agent/prop-shop/buy-product/page.js"
+    ],
+    "/agent/prop-shop/order-history/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/agent/prop-shop/order-history/page.js"
+    ],
+    "/user/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/user/layout.js"
+    ],
+    "/user/dashboard/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/user/dashboard/page.js"
+    ],
+    "/user/dashboard/ad/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/user/dashboard/ad/[id]/page.js"
+    ],
+    "/user/post-request/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/user/post-request/page.css",
+      "static/chunks/app/user/post-request/page.js"
+    ],
+    "/user/inbox/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/user/inbox/page.js"
+    ],
+    "/user/user-settings/user-profile/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/user/user-settings/user-profile/page.css",
+      "static/chunks/app/user/user-settings/user-profile/page.js"
+    ],
+    "/user/user-settings/preferences/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/user/user-settings/preferences/page.js"
+    ]
+  }
+}

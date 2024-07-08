@@ -1,0 +1,8 @@
+{
+  "/user/inbox/page": "app/user/inbox/page.js",
+  "/agent/inbox/page": "app/agent/inbox/page.js",
+  "/user/user-settings/user-profile/page": "app/user/user-settings/user-profile/page.js",
+  "/agent/agent-settings/agent-profile/page": "app/agent/agent-settings/agent-profile/page.js",
+  "/user/user-settings/preferences/page": "app/user/user-settings/preferences/page.js",
+  "/user/dashboard/page": "app/user/dashboard/page.js"
+}
